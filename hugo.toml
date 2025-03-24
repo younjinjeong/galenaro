@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'ko-kr'
+title = 'Galenaro RC Racing'
+headline = "Galeanro 1/10 scale onroad racing team"
+theme = 'blowfish'
+
+[params]
+  theme = 'blowfish'
+  theme_version = 'v2'
+  theme_color = 'light'
+  theme_dark_color = 'dark'
